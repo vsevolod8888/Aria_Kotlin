@@ -20,7 +20,7 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Угадай песню по отрывку из соло"
+        android:text="@string/ugaday"
         android:textColor="#FFA000"
         android:textSize="21sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -36,7 +36,7 @@
         android:layout_height="59dp"
         android:layout_marginBottom="68dp"
         android:background="@android:color/transparent"
-        android:text="ИГРАТЬ"
+        android:text="@string/igrat"
         android:textColor="#FFA000"
         android:textSize="@android:dimen/app_icon_size"
         app:layout_constraintBottom_toBottomOf="@+id/imageView_message_image"
@@ -57,11 +57,10 @@
 
         <TextView
             android:id="@+id/tvScore"
-            android:layout_width="wrap_content"
+            android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:gravity="center_horizontal"
-            android:text="TextView"
             android:textColor="#FFA000"
             android:textSize="21sp" />
 

@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Ария Котлин</string>
+    <string name="app_name">Aria</string>
+    <string name="uroven">Level: </string>
+    <string name="ugaday">Guess the song by a solo fragment</string>
+    <string name="rekord">Record</string>
+    <string name="igrat">Play</string>
+    <string name="itogo">Total: </string>
+    <string name="vihod">Exit</string>
+    <string name="loosetittledialog">You lost. Your level: </string>
+    <string name="wintittledialog">Victory! Your time: </string>
 </resources>

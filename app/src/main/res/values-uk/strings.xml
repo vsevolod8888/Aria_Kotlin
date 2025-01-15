@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Арія</string>
+    <string name="uroven">Рівень: </string>
+    <string name="ugaday">Вгадай пісню за уривком із соло</string>
+    <string name="rekord">Рекорд</string>
+    <string name="igrat">Грати</string>
+    <string name="itogo">Підсумок: </string>
+    <string name="vihod">Вихід</string>
+    <string name="loosetittledialog">Ви програли. Ваш рівень: </string>
+    <string name="wintittledialog">Перемога! Ваш час: </string>
+</resources>

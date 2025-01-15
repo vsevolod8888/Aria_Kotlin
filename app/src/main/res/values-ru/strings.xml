@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ария</string>
+    <string name="uroven">Уровень: </string>
+    <string name="ugaday">Угадай песню по отрывку из соло</string>
+    <string name="rekord">Рекорд</string>
+    <string name="igrat">Играть</string>
+    <string name="itogo">Итого: </string>
+    <string name="vihod">Выход</string>
+    <string name="loosetittledialog">Вы проиграли. Ваш уровень: </string>
+    <string name="wintittledialog">Победа!Ваше время: </string>
+</resources>
